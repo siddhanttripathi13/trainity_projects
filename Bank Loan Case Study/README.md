@@ -16,3 +16,6 @@ Refused: The company rejected the loan.
 Unused Offer: The loan was approved but the customer did not use it.
 Your goal in this project is to use EDA to understand how customer attributes and loan attributes influence the likelihood of default.
 
+Main Analysis File - https://iitk-my.sharepoint.com/:x:/g/personal/siddhant21_iitk_ac_in/EdOkGuQDQuJCsYvQFGGXBPkBNK0majoVGG18E_aO7pFzWA?e=Cdsfl7
+Merged Data Analysis File - https://iitk-my.sharepoint.com/:x:/g/personal/siddhant21_iitk_ac_in/ER-vCcZKx5tClXhxtP6BTUEB85CYdEj3He1cnZrDFhOjNQ?e=352bdt
+Outlier analysis File - https://iitk-my.sharepoint.com/:x:/g/personal/siddhant21_iitk_ac_in/EfbQGNrmbp9JiHXhLuawxfQBLnqrQX9cxqBDUBnZfbCe6A?e=hEL6GL
